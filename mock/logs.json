@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "created": "2025-11-05T09:00:00Z",
+      "country": "Thailand",
+      "drone_id": 3001,
+      "drone_name": "Falcon Eye",
+      "celsius": 32.5
+    },
+    {
+      "created": "2025-11-04T08:00:00Z",
+      "country": "Thailand",
+      "drone_id": 3001,
+      "drone_name": "Falcon Eye",
+      "celsius": 31.2
+    }
+  ]
+}
