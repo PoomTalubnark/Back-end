@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 3000;
 // --- ‼️ นี่คือส่วนที่แก้ไข ‼️ ---
 // เราจะกำหนดค่า cors ให้เจาะจงเว็บหน้าบ้านของคุณ
 const corsOptions = {
-  origin: 'https://drone-frontend.netlify.app'
+  origin: 'https://front-enddd.netlify.app'
 };
 
 app.use(cors(corsOptions));
